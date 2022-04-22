@@ -8,9 +8,9 @@ import {
   Resolver,
 } from '@nestjs/graphql';
 
-import { PurchasesService } from '../../../services/purchases/purchases.service';
-import { ProductsService } from '../../../services/products/products.service';
-import { CustomersService } from '../../../services/customers/customers.service';
+import { PurchasesService } from '../../../services/purchases.service';
+import { ProductsService } from '../../../services/products.service';
+import { CustomersService } from '../../../services/customers.service';
 
 import { AuthorizationGuard } from '../../auth/authorization.guard';
 
