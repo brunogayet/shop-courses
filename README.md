@@ -149,3 +149,11 @@ If message "Cannot found module" appears, you have to run the command bellow
 ```bash
 npm link --name-module
 ```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Thanks to
+[Rocketseat](https://github.com/Rocketseat) :rocket::purple_heart:
